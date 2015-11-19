@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VietStory</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="heading">Heading</string>
+    <string name="like">Lượt Like</string>
+    <string name="view">Lượt View</string>
+    <string name="comment">Lượt cmt</string>
+    <string name="thongtin">Phần Mềm Đọc Truyện VietStory</string>
+    <string name="design">Nhóm Designer....</string>
+    <string name="search">Search</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="dangnhap">Đăng Nhập</string>
+    <string name="dangky">Đăng Ký</string>
+    <string name="lamtrang">Thử Lại</string>
+    <string name="email">Email</string>
+    <string name="tieude">Tiêu Đề</string>
+    <string name="noidung">Nội Dung</string>
+    <string name="them">Thêm</string>
+    <string name="xoa">Xóa</string>
+    <string name="cauhoi">Bạn chưa có tài khoản ?</string>
+    <string name="title_activity_test">Test</string>
+
+</resources>
